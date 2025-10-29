@@ -54,24 +54,6 @@ Expand real-world classroom testing for scalability and longitudinal personaliza
 
 Enhance emotional intelligence and multimodal reasoning for richer tutoring dynamics.
 
-## 🧩 Repository Structure
-├── agents/
-│   ├── profiler_agent.py
-│   ├── content_generator_agent.py
-│   ├── cultural_adapter_agent.py
-│   ├── evaluator_agent.py
-│   ├── pdf_creator_agent.py
-│   └── json_saver_agent.py
-├── data/
-│   ├── mango_dataset/
-│   └── learner_profiles.json
-├── outputs/
-│   ├── lesson_content.md
-│   ├── final_lesson_bundle.pdf
-│   └── cultural_evaluation.md
-├── requirements.txt
-└── README.md
-
 ## 💡 Key Insights
 
 Multi-agent orchestration enables emergent collaboration among LLMs for complex educational reasoning.
